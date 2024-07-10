@@ -1,0 +1,7 @@
+PORT=4000
+MONGO_URL="your mongo connection"
+
+
+
+
+for @ encode in %40
